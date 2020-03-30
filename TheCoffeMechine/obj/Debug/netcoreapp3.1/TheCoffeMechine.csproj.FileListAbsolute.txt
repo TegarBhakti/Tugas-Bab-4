@@ -1,0 +1,11 @@
+C:\Users\Windows10\Documents\Pemrograman\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.exe
+C:\Users\Windows10\Documents\Pemrograman\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.deps.json
+C:\Users\Windows10\Documents\Pemrograman\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.runtimeconfig.json
+C:\Users\Windows10\Documents\Pemrograman\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.runtimeconfig.dev.json
+C:\Users\Windows10\Documents\Pemrograman\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.dll
+C:\Users\Windows10\Documents\Pemrograman\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.pdb
+C:\Users\Windows10\Documents\Pemrograman\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.csprojAssemblyReference.cache
+C:\Users\Windows10\Documents\Pemrograman\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.AssemblyInfoInputs.cache
+C:\Users\Windows10\Documents\Pemrograman\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.AssemblyInfo.cs
+C:\Users\Windows10\Documents\Pemrograman\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.dll
+C:\Users\Windows10\Documents\Pemrograman\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.pdb
